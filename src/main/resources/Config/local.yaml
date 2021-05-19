@@ -1,0 +1,9 @@
+http:
+  listner:
+     host: "localhost"
+     port: "8082"
+  request:
+     host: "localhost"
+     port: "8081"
+     Routespath: "/travelontipcall/Routes"
+     Schedulespath: "/travelontipcall/Schedules"
